@@ -24,3 +24,8 @@ So as to classify exactly those who got H1N1 flu shot from those that did not, w
 ## Data Overview
 
 This data comes from a NHFS National Flu Survey from 2009, which inquires about whether or not people received the seasonal flu and/or the H1N1 flu vaccination, as well as their demographic, behavioral, and health factors. There are 26,000 respondents to this survey. In this project we chose H1N1 vaccination rate as our target variable. We used all features in the survey, and filled missing values using the Iterative Imputer.
+
+
+## Methodology
+
+We wanted to use a variety of different models so as to find the most accurate model. Because there are many different hyperparameters for each model and we did not know the optimal combinations, we used GridSearrchCV to find the best combinations for each model. We specified class weight to be balanced in order to address the class imbalance issue for our models, whenever possible. We also analyzed the accuracy score, precision score, fl score, and roc-auc curve for each model. We also compared the different roc-auc curves of each model, to choose the final model. Additionally, we looked closely at the confusion matrix to see whether or not we were minimizing false positives. Gradient Boosting Classifier gave us the best accuracy and precision scores, so we chose it to be our final model.
