@@ -21,3 +21,6 @@ The Gradient Boosting Classifier yielded the best accuracy and precision score.
 
 So as to classify exactly those who got H1N1 flu shot from those that did not, we need a higher accuracy of the model outputs, as well as a high precision score, which is related to a low false positive rate (those who predicted to be vaccinated but did actually not get H1N1 flu shot). 
 
+## Data Overview
+
+This data comes from a NHFS National Flu Survey from 2009, which inquires about whether or not people received the seasonal flu and/or the H1N1 flu vaccination, as well as their demographic, behavioral, and health factors. There are 26,000 respondents to this survey. In this project we chose H1N1 vaccination rate as our target variable. We used all features in the survey, and filled missing values using the Iterative Imputer.
