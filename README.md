@@ -1,4 +1,5 @@
- H1N1 FLU VACCINATION PREDICTION: A Machine Learning Project
+## PREDICTING H1N1 FLU VACCINATION STATUS USING MACHINE LEARNING
+
 ## Project Overview
 
 The aim of this study is to predict how likely individuals are to receive their H1N1 flu vaccine. We believe the prediction outputs (model and analysis) of this study will give public health professionals and policy makers, as an end user, a clear understanding of factors associated with low vaccination rates. This in turn, enables end users to systematically act on those features hindering people to get vaccinated.
@@ -64,11 +65,4 @@ For our next steps, we would like to look at more recent flu survey data, so as 
 ### Presentation
 
 - https://github.com/emykes/Flu_Vaccination_ML/blob/main/Phase3_Project_Slides.pdf
-
-### Team Members
-
-- Brooke Smyth: https://github.com/brooke57
-- Emine Kesici: https://github.com/emykes
-- Tamiru B. Denka: https://github.com/Tamiru3
-
 
