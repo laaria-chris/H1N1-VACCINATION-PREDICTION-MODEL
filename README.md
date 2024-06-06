@@ -51,3 +51,24 @@ Additionally, because opinion on H1N1 vaccine effectiveness and H1N1 risk to hea
 For our next steps, we would like to look at more recent flu survey data, so as to get the most recent results. We would also like to do more feature engineering to improve accuracy. Lastly, since we chose to focus only on predicting H1N1 vaccination status, we would like to focus in the future on predicting seasonal flu vaccine status.
 
 
+## Repository Navigation
+
+### Data:
+- https://www.drivendata.org/competitions/66/flu-shot-learning/page/213/
+
+
+### Notebooks
+- Final notebook: https://github.com/emykes/Flu_Vaccination_ML/blob/main/Project3_Main_Notebook.ipynb
+- Modeling iterations: https://github.com/emykes/Flu_Vaccination_ML/blob/main/Project3_model_iterations.ipynb
+
+### Presentation
+
+- https://github.com/emykes/Flu_Vaccination_ML/blob/main/Phase3_Project_Slides.pdf
+
+### Team Members
+
+- Brooke Smyth: https://github.com/brooke57
+- Emine Kesici: https://github.com/emykes
+- Tamiru B. Denka: https://github.com/Tamiru3
+
+
