@@ -43,9 +43,11 @@ The doctor recommendation, health insurance, opinion of vaccine efficiency, and 
 ## Conclusion
 
 We recommend that public health officials at the American Public Health Association (APHA) communicate to doctors the importance of recommending to patients that they get the H1N1 vaccine. We also recommend that they find a way to make the vaccine accesible to people regardless of health insurance status.
- 
+
 Additionally, because opinion on H1N1 vaccine effectiveness and H1N1 risk to health are highly influential in determining vaccination status, we recommend that the APHA make educational outreach a priority. Our analysis might not fully resolve the goal of predicting H1N1 vaccination status because we were not able to fully rule out false negatives, or people who we predicted as not getting vaccinated but actually did get the vaccine. Additionally, there may be other factors at play which were not tapped into by this survey's questions which could also play a role in vaccination prediction. 
 
+## Next Steps
 
+For our next steps, we would like to look at more recent flu survey data, so as to get the most recent results. We would also like to do more feature engineering to improve accuracy. Lastly, since we chose to focus only on predicting H1N1 vaccination status, we would like to focus in the future on predicting seasonal flu vaccine status.
 
 
